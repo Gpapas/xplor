@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Xplor.gr | Under Construction'
 theme = "ananke"
 [params]
-logo = "/images/logo.png"
+logo = "/img/logo.png"
 email = "info@xplor.gr"
 
 theme = "ananke"
